@@ -1,0 +1,2 @@
+User-agent: *Allow:/
+Sitemap : https://jwebsite.netlify.app/sitemap.xml
