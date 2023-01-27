@@ -1,3 +1,4 @@
 User-agent: *
 Allow:/
 Sitemap : https://jwebsite.netlify.app/sitemap.xml
+#DaumWebMasterTool:13fc7931b92285222ad4dced0e31d10ec5178c0449da196f24562dd23c5bcc8e:KrZFfmu3MttAK7QA6AD67Q==
